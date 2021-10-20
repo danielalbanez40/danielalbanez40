@@ -2,7 +2,7 @@
 <h1 align="center">Hola!👋🏻, soy Daniel Albanez.</h1>
 <h3 align="center"> Desarrollador web Trainee. </h3>
 
-Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web.
+<!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
 - :man_technologist: Herramientas y lenguajes que estoy aprendiendo **Css & Javascript.**
 
