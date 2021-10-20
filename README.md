@@ -2,7 +2,7 @@
 <h1 align="center">Hi! 👋, welcome to my profile, I'm Daniel.</h1>
 <h3 align="center">A passionate frontend web developer from Argentina. </h3>
 
-- :man_technologist: I’m currently learning **Css & Javascript**
+- :man_technologist: I’m currently learning **Css & Javascript.**
 
 
 <h3 align="left">Languages and Tools:</h3>
