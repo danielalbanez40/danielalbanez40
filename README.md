@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hola!👋🏻, soy Daniel Albanez.</h1>
-<h3 align="center"> Desarrollador web. </h3>
+<h3 align="center"> Desarrollador web Trainee. </h3>
 
 - :man_technologist: Herramientas y lenguajes que estoy aprendiendo **Css & Javascript.**
 
