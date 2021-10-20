@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi! 👋, welcome to my profile, I'm Daniel.</h1>
+<h1 align="center">Hi! 👋, welcome to my GitHub profile, I'm Daniel.</h1>
 <h3 align="center">A passionate frontend web developer from Argentina. </h3>
 
 - :man_technologist: I’m currently learning **Css & Javascript.**
