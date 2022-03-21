@@ -4,9 +4,9 @@
 
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
-<!-- - :man_technologist: Herramientas y lenguajes que estoy aprendiendo **Css & Javascript.** -->
+- :man_technologist: Herramientas y lenguajes que estoy aprendiendo **ReactJs**
 
-<h3 align="left">Lenguajes y herramientas que manejo:</h3>
+<h3 align="left">Mis Habilidades</h3>
 
 <p align="left"> 
   
