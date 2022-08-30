@@ -1,14 +1,10 @@
-<!-- ### Hi there 👋 -->
-<h1 align="center">Hola!👋🏻, soy Daniel Albanez, bienvenid@ a mi perfil de Github.</h1>
-<div align="center"> 
-    <img src="https://raw.githubusercontent.com/danielalbanez40/danielalbanez40/master/img/20220301_170645.jpg" width="200" height="200"/>
-<div/>
-<h2 align="center"> Desarrollador web Trainee/Jr. </h2>
-
+<h2 align="center">Licenciado en Informática - Desarrollador web Trainee/Jr. </h2>
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
-<h3 align="left">- :man_technologist: Tecnologías y lenguajes que estoy aprendiendo: <b>"ReactJs"</b></h3>
-<h3 align="left">- :man_technologist: Próximas tecnologías que aprenderé: <b>"Node Js"</b> , <b>"Testing manual de software"</b></h3>
+<h3 align="left">Acá abajo 👇 te cuento lo que estoy haciendo actualmente</h3>
+
+<h3 align="left">- :man_technologist: Tecnologías y lenguajes que estoy aprendiendo: <b>"<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="css3" width="16" height="16"/> </a> ReactJs."</b></h3>
+<h3 align="left">- :man_technologist: Próximas tecnologías que aprenderé: <b>"<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"alt="css3" width="16" height="16"/> </a> Node Js"</b> , <b>"Testing manual de software."</b></h3>
 
 
 <h2 align="center">Mis Habilidades</h2>
@@ -58,7 +54,7 @@
             </td>
         </tr>
 </table>
-
+<hr>
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf" alt="GitHub Views"/>
 <div/>
