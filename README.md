@@ -1,18 +1,58 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hola!👋🏻, soy Daniel Albanez.</h1>
-<h3 align="center"> Desarrollador web Trainee. </h3>
+<h3 align="center"> Desarrollador web Trainee/Jr. </h3>
 
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
 - :man_technologist: Herramientas y lenguajes que estoy aprendiendo **ReactJs**
 
-<h3 align="left">Mis Habilidades</h3>
+<h2 align="center">Mis Habilidades</h2>
 
-<p align="left"> 
-  
-<!-- HTML --><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"   width="24" height="24"/> </a> <!-- Css --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="24" height="24"/> </a><!-- Bootstrap --><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="24" height="24"/> </a> <!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a> <!-- ReactJs --><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="24" height="24"/> </a> <!-- PHP --> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="24"height="24"/> </a>  <!-- Laravel --> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24" height="24"/> </a> <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"width="24" height="24"/> </a> <!-- Git --> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/> </a>
-  
-</p>
+<table>
+    <thead>
+    <tr>
+      <th>HTML</th>
+      <th>CSS</th>
+      <th>BOOTSTRAP</th>
+      <th>JAVASCRIPT</th>
+      <th>REACTJS</th>
+      <th>PHP</th>
+      <th>LARAVEL</th>
+      <th>MySQL</th>
+      <th>GIT</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td>
+            <!-- HTML --><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"   width="64" height="64"/> </a>
+            </td>
+            <td>
+                <!-- Css --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="64" height="64"/> </a>
+            </td>
+            <td>
+            <!-- Bootstrap --><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="64" height="64"/> </a>
+            </td>
+            <td>
+                <!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> </a>
+            </td>
+            <td>
+                <!-- ReactJs --><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="64" height="64"/> </a>
+            </td>
+            <td>
+                <!-- PHP --> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="64"height="64"/> </a>
+            </td>
+            <td>
+                <!-- Laravel --> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="64" height="64"/> </a>
+            </td>
+            <td>
+                <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"width="64" height="64"/>
+            </td>
+            <td>
+                <!-- Git --> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/> </a>
+            </td>
+        </tr>
+</table>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf)
 
