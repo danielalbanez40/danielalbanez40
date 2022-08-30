@@ -4,7 +4,7 @@
 
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
-<h3 align="left">- :man_technologist: Herramientas y lenguajes que estoy aprendiendo: ***ReactJs***</h3>
+<h3 align="left">- :man_technologist: Herramientas y lenguajes que estoy aprendiendo: ReactJs</h3>
 
 
 <h2 align="center">Mis Habilidades</h2>
