@@ -1,13 +1,14 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hola!👋🏻, soy Daniel Albanez.</h1>
-<img src="https://raw.githubusercontent.com/danielalbanez40/danielalbanez40/master/img/20220301_170645.jpg" width="100" height="100" align="center" />
-
+<div align="center"> 
+    <img src="https://raw.githubusercontent.com/danielalbanez40/danielalbanez40/master/img/20220301_170645.jpg" width="200" height="200"/>
+<div/>
 <h2 align="center"> Desarrollador web Trainee/Jr. </h2>
 
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
-<h3 align="left">- :man_technologist: Tecnologías y lenguajes que estoy aprendiendo: <b>ReactJs</b></h3>
-<h3 align="left">- :man_technologist: Próximas tecnologías que aprenderé: <b>Node Js</b> , <b>Testing manual de software</b></h3>
+<h3 align="left">- :man_technologist: Tecnologías y lenguajes que estoy aprendiendo: <b>"ReactJs"</b></h3>
+<h3 align="left">- :man_technologist: Próximas tecnologías que aprenderé: <b>"Node Js"</b> , <b>"Testing manual de software"</b></h3>
 
 
 <h2 align="center">Mis Habilidades</h2>
@@ -58,7 +59,10 @@
         </tr>
 </table>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf)
+<div align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf" alt="GitHub Views"/>
+<div/>
+
 
 <!-- <h1 align="center">Hi! 👋, welcome to my GitHub profile, I'm Daniel.</h1>
 <h3 align="center">A passionate frontend web developer from Argentina. </h3>
