@@ -1,3 +1,6 @@
+<!-- ### Hi there 👋 --> 
+<h1 align="center">Hola!👋🏻, soy Daniel Albanez, bienvenid@ a mi perfil de Github.</h1> 
+<div align="center"> <img src="https://raw.githubusercontent.com/danielalbanez40/danielalbanez40/master/img/20220301_170645.jpg" width="200" height="200"/> <div/>
 <h2 align="center">Licenciado en Informática - Desarrollador web Trainee/Jr. </h2>
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
