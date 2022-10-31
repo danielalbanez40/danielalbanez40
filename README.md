@@ -6,15 +6,11 @@
 
 <h3 align="left">Acá abajo 👇 te cuento lo que estoy haciendo actualmente</h3>
 
-<h3 align="left">- 👩🏻‍💻 Tecnologías y lenguajes que estoy aprendiendo:</h3>
+#### - 👩🏻‍💻 Tecnologías y lenguajes que estoy aprendiendo: 
+![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff)
 
- ![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff)
-
-<h3 align="left">- 👩🏻‍💻 Próximas tecnologías que aprenderé: </h3>
-
- ![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white) 
- 
- ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=fff) 
+#### - 👩🏻‍💻 Próximas tecnologías que aprenderé: 
+![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=fff) 
  
 
 <h2 align="center">Mis Habilidades</h2>
@@ -69,7 +65,7 @@
                 <!-- Git --> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/> </a>
             </td>
             <td>
-                <!-- MUI --> <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="git" width="64" height="64"/> </a>
+                <!-- MUI --> <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" width="64" height="64"/> </a>
             </td>
         </tr>
 </table>
