@@ -1,14 +1,21 @@
 <!-- ### Hi there 👋 --> 
-<h1 align="center">Hola!👋🏻, soy Daniel Albanez, bienvenid@ a mi perfil de Github.</h1> 
+<h1 align="center">Hola!👋🏻, me llamo Daniel Albanez y te doy la  bienvenida a mi perfil de Github.</h1> 
 <div align="center"> <img src="https://raw.githubusercontent.com/danielalbanez40/danielalbanez40/master/img/20220301_170645.jpg" width="200" height="200"/> <div/>
-<h2 align="center">Licenciado en Informática - Desarrollador web Trainee/Jr. </h2>
+<h2 align="center">Soy Licenciado en Informática y Desarrollo de Software - Desarrollador web jr. </h2>
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
 <h3 align="left">Acá abajo 👇 te cuento lo que estoy haciendo actualmente</h3>
 
-<h3 align="left">- :man_technologist: Tecnologías y lenguajes que estoy aprendiendo: <b>"<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="css3" width="16" height="16"/> </a> ReactJs."</b></h3>
-<h3 align="left">- :man_technologist: Próximas tecnologías que aprenderé: <b>"<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"alt="css3" width="16" height="16"/> </a> Node Js"</b> , <b>"Testing manual de software."</b></h3>
+<h3 align="left">- 👩🏻‍💻 Tecnologías y lenguajes que estoy aprendiendo:</h3>
 
+ ![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff)
+
+<h3 align="left">- 👩🏻‍💻 Próximas tecnologías que aprenderé: </h3>
+
+ ![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white) 
+ 
+ ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=fff) 
+ 
 
 <h2 align="center">Mis Habilidades</h2>
 
@@ -20,11 +27,8 @@
       <th>BOOTSTRAP</th>
       <th>JAVASCRIPT</th>
       <th>REACTJS</th>
-      <th>PHP</th>
-      <th>LARAVEL</th>
-      <th>MySQL</th>
-      <th>GIT</th>
     </tr>
+    
   </thead>
     <tbody>
         <tr>
@@ -43,6 +47,15 @@
             <td>
                 <!-- ReactJs --><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="64" height="64"/> </a>
             </td>
+        </tr>
+        <tr>
+            <th>PHP</th>
+            <th>LARAVEL</th>
+            <th>MySQL</th>
+            <th>GIT</th>
+            <th>MUI</th>
+        </tr>
+        <tr>
             <td>
                 <!-- PHP --> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="64"height="64"/> </a>
             </td>
@@ -55,11 +68,14 @@
             <td>
                 <!-- Git --> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/> </a>
             </td>
+            <td>
+                <!-- MUI --> <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="git" width="64" height="64"/> </a>
+            </td>
         </tr>
 </table>
 <hr>
 <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf" alt="GitHub Views"/>
+    <img src="https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf&style=for-the-badge" alt="GitHub Views"/>
 <div/>
 
 
