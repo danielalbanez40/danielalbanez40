@@ -1,10 +1,11 @@
 <!-- ### Hi there 👋 --> 
 <h1 align="center">Hola!👋🏻, me llamo Daniel Albanez y te doy la  bienvenida a mi perfil de Github.</h1> 
-<div align="center"> <img src="img/GitHub-cover.png" width="100%" height="auto"/> <div/>
+<div align="center"> <img src="img/Github-cover.png" width="100%" height="auto"/> <div/>
+<hr>
 <!-- <h2 align="center">Soy Licenciado en Informática y Desarrollo de Software - Desarrollador web jr. </h2> -->
 <!-- Soy un desarrollador recién graduado de la licenciatura en Informática y Desarrollo de Software con muchas ganas de aprender para comenzar a desarrollar mi carrera como desarrollador web. -->
 
-<h3 align="center">Acá abajo 👇 te cuento lo que estoy haciendo actualmente</h3>
+<h3 align="center">Acá 👇 te cuento a qué me estoy dedicando actualmente</h3>
 
 #### - 👩🏻‍💻 Tecnologías y lenguajes que estoy aprendiendo: 
 ![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff)
