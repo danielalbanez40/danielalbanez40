@@ -71,10 +71,20 @@
         </tr>
 </table>
 <hr>
+ <h2 align="center">Mis Estadísticas</h2>
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=danielalbanez40&color=2685bf&style=for-the-badge" alt="GitHub Views"/>
 <div/>
-
+ 
+ <br/>
+ 
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danielalbanez40&theme=react&border=61dafb&hide_border=true" alt="danielalbanez40"/>
+</a>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img src="https://github-readme-stats.vercel.app/api?username=danielalbanez40&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
 
 <!-- <h1 align="center">Hi! 👋, welcome to my GitHub profile, I'm Daniel.</h1>
 <h3 align="center">A passionate frontend web developer from Argentina. </h3>
