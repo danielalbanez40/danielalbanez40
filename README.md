@@ -8,13 +8,15 @@
 <h3 align="center">Acá 👇 te cuento a qué me estoy dedicando actualmente</h3>
 
 #### - 👩🏻‍💻 Tecnologías y lenguajes que estoy aprendiendo: 
-![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff)
-
+<!--  ![React](https://img.shields.io/badge/React_js-149eca?style=for-the-badge&logo=react&logoColor=fff) -->
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=fff)
+![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white)
 #### - 👩🏻‍💻 Próximas tecnologías que aprenderé: 
-![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=fff) 
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=fff)
+<!--  ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=fff) -->
  
 
-<h2 align="center">Mis Habilidades</h2>
+<h2 align="center">Herramientas y tecnologías con las que he trabajado</h2>
 
 <table>
     <thead>
@@ -24,6 +26,7 @@
       <th>BOOTSTRAP</th>
       <th>JAVASCRIPT</th>
       <th>REACTJS</th>
+      <th>NODEJS</th>
     </tr>
     
   </thead>
@@ -36,7 +39,7 @@
                 <!-- Css --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="64" height="64"/> </a>
             </td>
             <td>
-            <!-- Bootstrap --><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="64" height="64"/> </a>
+            <!-- Bootstrap --><a href="https://getbootstrap.com" target="_blank"> <img src="https://deviconapi.vercel.app/bootstrap?size=64&color=6F10F4"alt="bootstrap" width="64" height="64"/> </a>
             </td>
             <td>
                 <!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> </a>
@@ -44,6 +47,9 @@
             <td>
                 <!-- ReactJs --><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="64" height="64"/> </a>
             </td>
+             <td>
+         <!--NodeJs--> <a href="https://nodejs.org/" target="_blank"> <img src="https://deviconapi.vercel.app/nodejs?size=64&color=5B984C" alt="NodeJs"/> </a>
+              </td>
         </tr>
         <tr>
             <th>PHP</th>
@@ -51,13 +57,14 @@
             <th>MySQL</th>
             <th>GIT</th>
             <th>MUI</th>
+            <th>DOCKER</th>
         </tr>
         <tr>
             <td>
                 <!-- PHP --> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="64"height="64"/> </a>
             </td>
             <td>
-                <!-- Laravel --> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="64" height="64"/> </a>
+                <!-- Laravel --> <a href="https://laravel.com/" target="_blank"> <img src="https://deviconapi.vercel.app/laravel?size=64&color=FF2D20" alt="laravel" width="64" height="64"/> </a>
             </td>
             <td>
                 <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"width="64" height="64"/>
@@ -68,6 +75,9 @@
             <td>
                 <!-- MUI --> <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Mui" width="64" height="64"/> </a>
             </td>
+                  <td>
+         <!--Docker--> <a href="https://www.docker.com/" target="_blank"> <img src="https://deviconapi.vercel.app/docker?size=64&color=1D63ED" alt="Docker"/> </a>
+              </td>
         </tr>
 </table>
 <hr>
